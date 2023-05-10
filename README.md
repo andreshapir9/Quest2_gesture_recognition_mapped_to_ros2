@@ -8,12 +8,12 @@ Required Hardwear
 Required Software:
 1. Unity 2021.2+
 2. <a href='https://docs.unity3d.com/Packages/com.unity.xr.hands@1.1/manual/index.html'>HandXR</a>
-3. <a herf='https://learn.microsoft.com/en-us/dotnet/api/system.net.sockets.socket?view=net-7.0'>Net Sockets</a>
-4. <a herf='https://numerics.mathdotnet.com/'>Math.NET</a>
-5. <a herf='https://github.com/Unity-Technologies/barracuda-release'>Unity Barracuda</a>
-6. <a herf='https://www.tensorflow.org/api_docs/python/tf/keras'>Tensorflow</a>
-7. <a herf='https://numpy.org/'>Numpy</a>
-8. <a herf='https://github.com/onnx/tensorflow-onnx'>tf2onnx</a>
+3. <a href='https://learn.microsoft.com/en-us/dotnet/api/system.net.sockets.socket?view=net-7.0'>Net Sockets</a>
+4. <a href='https://numerics.mathdotnet.com/'>Math.NET</a>
+5. <a href='https://github.com/Unity-Technologies/barracuda-release'>Unity Barracuda</a>
+6. <a href='https://www.tensorflow.org/api_docs/python/tf/keras'>Tensorflow</a>
+7. <a href='https://numpy.org/'>Numpy</a>
+8. <a href='https://github.com/onnx/tensorflow-onnx'>tf2onnx</a>
 9. some other configuration might be needed both in Unity and Python
 
 ## 1. Introduction
